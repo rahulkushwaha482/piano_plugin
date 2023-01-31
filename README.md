@@ -1,15 +1,11 @@
 # piano
 
-A new Flutter project.
+A new Flutter plugin for piano implementation.
 
-## Getting Started
+## Example
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://user-images.githubusercontent.com/33664603/215725137-cec11902-a7a1-49ec-9e2a-8f39c6feb132.mov
 
